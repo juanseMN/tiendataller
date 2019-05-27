@@ -2,7 +2,7 @@
     $servername="localhost";
     $username="root";
     $pass="";
-    $DBname="tienda";
+    $DBname="market";
 
     //create connection to database
 
